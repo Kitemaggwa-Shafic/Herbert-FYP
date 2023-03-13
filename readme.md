@@ -1,4 +1,4 @@
-# FYP ORMS
+# Hebert FYP ORMS
 
 You will need to have the DB setup with you for its that file storing my database.
 
@@ -8,6 +8,6 @@ The student can only access material uploaded by the lecturer in the system and 
 
 The lecture can add lecturer modules to the system and students can view them in their respective accounts, download and can revise etc
 
-# This project was a FYP for Kabugo Hebert MRU 
+### This project was a FYP for Kabugo Hebert MRU 
 
 And is for student research purposes only!!
